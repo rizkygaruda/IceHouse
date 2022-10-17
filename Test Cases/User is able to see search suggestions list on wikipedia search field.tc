@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User is able to see search suggestions list on wikipedia search field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ce55c0df-1ecc-42ca-b2b1-bfd14089d651</testCaseGuid>
+</TestCaseEntity>

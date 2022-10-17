@@ -3,7 +3,7 @@
    <description></description>
    <name>IceHouse</name>
    <tag></tag>
-   <UUID>e6ae1a1e-347d-4e51-b3c8-00211bd8a2ad</UUID>
+   <UUID>8b5ffe4a-5c22-4d9e-bb28-11d3301cb55b</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
@@ -25,5 +25,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>GENERIC</type>
+   <type>WEBUI</type>
 </Project>
